@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Pad Loop",
+    "url": "samples/loopazon-1738276496-pad-loop-melodic-by-banny-fernvndes.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Dark",
+    "url": "samples/loopazon-1738276513-dark-cinematic-piano-loop.mp3",
+    "bpm": 120,
+    "loop": "3m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Vocal RnB",
+    "url": "samples/loopazon-1738276529-vocal-rnb.mp3",
+    "bpm": 120,
+    "loop": "5m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
